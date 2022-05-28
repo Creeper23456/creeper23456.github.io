@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.cnklp.cn</id>
+    <title>Creeper&apos;s blog</title>
+    <updated>2022-05-28T04:06:34.519Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.cnklp.cn"/>
+    <link rel="self" href="https://blog.cnklp.cn/atom.xml"/>
+    <subtitle>in the autumn sky</subtitle>
+    <logo>https://blog.cnklp.cn/images/avatar.png</logo>
+    <icon>https://blog.cnklp.cn/favicon.ico</icon>
+    <rights>All rights reserved 2022, Creeper&apos;s blog</rights>
+    <entry>
+        <title type="html"><![CDATA[BillGreen的3D玩意-第一弹]]></title>
+        <id>https://blog.cnklp.cn/post/2022-05-05-bg-render-pt1/</id>
+        <link href="https://blog.cnklp.cn/post/2022-05-05-bg-render-pt1/">
+        </link>
+        <updated>2022-05-04T09:18:56.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://assets.cnklp.cn/upload/Creeper_Res/img/Olostland%2520v1.jpg" alt="Olostland1" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://assets.cnklp.cn/upload/Creeper_Res/img/Olostland%2520v1.1.jpg" alt="Olostland1.1" loading="lazy"></figure>
+<p>点击链接下载原图：</p>
+<p><a href="https://file.klpnb.cn/Media/Image/Olostland%2520v1.png">图1</a></p>
+<p><a href="https://file.klpnb.cn/Media/Image/Olostland%2520v1.1.png">图2</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS部分旧软件包存档]]></title>
+        <id>https://blog.cnklp.cn/post/2022-04-29-ipadl/</id>
+        <link href="https://blog.cnklp.cn/post/2022-04-29-ipadl/">
+        </link>
+        <updated>2022-04-29T04:12:30.000Z</updated>
+        <content type="html"><![CDATA[<p>包括b站客户端与网易云音乐。</p>
+<p>选择一个下载：</p>
+<p>bilibili ( <a href="itms-services:///?action=download-manifest&amp;url=https://assets.cnklp.cn/Index/ipadl/plist/Bilibili5.46.1.plist">5.46.1</a> )</p>
+<p>网易云音乐 ( <a href="itms-services:///?action=download-manifest&amp;url=https://assets.cnklp.cn/Index/ipadl/plist/Cloudmusic2.7.1.plist">2.7.1</a> | <a href="itms-services:///?action=download-manifest&amp;url=https://assets.cnklp.cn/Index/ipadl/plist/Cloudmusic3.5.1.plist">3.5.1</a> )</p>
+<p>使用办法：使用Safari浏览器打开本页面，点击版本号下载并安装需要的软件包。</p>
+<p><strong>注意：不支持iOS10以上设备。</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[美好的每一天-不连续的存在扒谱：《夏的大三角》]]></title>
+        <id>https://blog.cnklp.cn/post/2022-04-28-wonderful-everyday/</id>
+        <link href="https://blog.cnklp.cn/post/2022-04-28-wonderful-everyday/">
+        </link>
+        <updated>2022-04-28T07:20:09.000Z</updated>
+        <content type="html"><![CDATA[<p>五线谱下载/预览：<a href="https://assets.cnklp.cn/Index/blog/files/score/%25E5%25A4%258F%25E6%2597%25A5%25E5%25A4%25A7%25E4%25B8%2589%25E8%25A7%2592%25E6%2589%2592%25E8%25B0%25B1/%25E5%25A4%258F%25E6%2597%25A5%25E5%25A4%25A7%25E4%25B8%2589%25E8%25A7%2592.pdf">点击下载</a></p>
+<p>在线预览：<audio controls src="https://assets.cnklp.cn/Index/blog/files/score/%25E5%25A4%258F%25E6%2597%25A5%25E5%25A4%25A7%25E4%25B8%2589%25E8%25A7%2592%25E6%2589%2592%25E8%25B0%25B1/%25E5%25A4%258F%25E6%2597%25A5%25E5%25A4%25A7%25E4%25B8%2589%25E8%25A7%2592.mp3"></audio></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[炼狱庭院站点备份现已重新提供]]></title>
+        <id>https://blog.cnklp.cn/post/2021-09-23-rengoku-teien-backup/</id>
+        <link href="https://blog.cnklp.cn/post/2021-09-23-rengoku-teien-backup/">
+        </link>
+        <updated>2021-09-22T18:12:11.000Z</updated>
+        <content type="html"><![CDATA[<p>继上次按要求关停炼狱庭院镜像站后，有一部分人问我要文件存档。</p>
+<p>在此特意分享给各位，但使用时请遵守炼狱庭院的相关条约。</p>
+<p>标注来源站时，请标注炼狱庭院官方网站。</p>
+<p><a href="http://assets.cnklp.cn/upload/Creeper_Res/rengoku-teien_backup.zip">点击下载网站包</a></p>
+<p>如果你不想在本地搭建网站，或是不明白如何使用该文件包，请运行根目录下的<strong>start_caddy.bat</strong></p>
+<p>一切正常后，在浏览器键入 <strong>http://127.0.0.1</strong> 访问网站</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PigeonMix发布新EP]]></title>
+        <id>https://blog.cnklp.cn/post/2021-09-23-pcmix-ep-for/</id>
+        <link href="https://blog.cnklp.cn/post/2021-09-23-pcmix-ep-for/">
+        </link>
+        <updated>2021-09-22T18:06:40.000Z</updated>
+        <content type="html"><![CDATA[<p>欢迎在网易云音乐收听：<a href="https://music.163.com/#/album?id=133528964">https://music.163.com/#/album?id=133528964</a></p>
+<p>《For》专辑包含作品内容：</p>
+<ul>
+<li>《For Her》<br>
+作曲/编曲：Creeper23456<br>
+混音：Yang<br>
+母带：Yang<br>
+简介：以“她”为名的歌，包含了对“她”现在、过去与未来的感谢与感激。又何曾想过，“她”究竟意味着一段过往，还是对一切美好凝聚的的梦？但无论何时，哪怕为此流泪，也应当充满感激之情。</li>
+<li>《For Him》<br>
+作曲/编曲：NKKXZXX, Creeper23456<br>
+混音：Yang<br>
+母带：Yang<br>
+简介：以“他”为名的歌，既是对过往的留恋，亦是细说与“他”从相遇至今，所经历与感慨过的所有。“我们总将相见，在路途的彼端。”</li>
+<li>《For the Future》<br>
+作曲：Yang, Creeper23456<br>
+编曲：Yang<br>
+混音：Yang<br>
+母带：Yang<br>
+简介：时代的主题，应是无限的未来。而青春，不应止步于“她”。与“他”携手，谱写属于人生最光亮的一章！披荆斩棘，只为了没有眼泪的明天；冲破黑暗，是为了黎明的到来。</li>
+<li>《For the Memories》<br>
+作曲/编曲：Creeper23456<br>
+混音：Yang<br>
+母带：Yang<br>
+简介：至纯无垠的回忆，与最初的“她”相识时，她那皎洁的微笑不断拨动着少年心中的心弦。在旅途中，也许在想要放弃的时候，应该从过往中找寻自己的初心吧。</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[部署Ubuntu系统并通过PXE进行无盘启动]]></title>
+        <id>https://blog.cnklp.cn/post/2021-04-27-delopy-pxe-ubuntu/</id>
+        <link href="https://blog.cnklp.cn/post/2021-04-27-delopy-pxe-ubuntu/">
+        </link>
+        <updated>2021-04-26T23:22:07.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="前言">前言</h2>
+<p>在业余时间部署客户需要的应用，发现服务器不够用了，看了一眼早已被遗弃的笔电，我眼中一亮，准备发挥我的传统艺能：<strong>废物利用</strong></p>
+<h2 id="准备">准备</h2>
+<p>在开始之前，你需要准备好：</p>
+<ul>
+<li>一台支持PXE的设备，一般来说只要不是太过时，基本上都支持。</li>
+<li>一台支持TFTP功能的DHCP服务器。</li>
+<li>pxelinux固件</li>
+<li>局域网内能正常运行的Debian系服务器（包括Ubuntu）</li>
+</ul>
+<h2 id="开始部署">开始部署</h2>
+<h3 id="准备无盘系统">准备无盘系统</h3>
+<p>登录自己的Debian类服务器，笔者使用的是Debian Buster：</p>
+<pre><code>Microsoft Windows [;版本 10.0.19042.928]
+(c) Microsoft Corporation。保留所有权利。
+
+C:\Users\creeper&amp;gt;ssh root@192.168.123.88
+root@192.168.123.88's password:
+Linux web 4.19.0-14-amd64 #1 SMP Debian 4.19.171-2 (2021-01-30) x86_64
+
+The programs included with the Debian GNU/Linux system are free software;
+the exact distribution terms for each program are described in the
+individual files in /usr/share/doc/*/copyright.
+
+Debian GNU/Linux comes with ABSOLUTELY NO WARRANTY, to the extent
+permitted by applicable law.
+Last login: Tue Apr 27 12:33:00 2021 from 127.0.0.1
+root@web:~#
+</code></pre>
+<p>查看磁盘：</p>
+<pre><code>root@web:~# fdisk -l
+Disk /dev/sda：50 GiB，53687091200 字节，104857600 个扇区
+Disk model: QEMU HARDDISK
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+磁盘标签类型：dos
+磁盘标识符：0xa39d59c3
+
+设备       启动      起点      末尾      扇区  大小 Id 类型
+/dev/sda1  *         2048 102856703 102854656   49G 83 Linux
+/dev/sda2       102858750 104855551   1996802  975M  5 扩展
+/dev/sda5       102858752 104855551   1996800  975M 82 Linux swap / Solaris
+</code></pre>
+<p>可以看见这个VPS只有50GB的硬盘，如果要在该系统上部署无盘机所需要的操作系统，还应该考虑磁盘的占用是否会影响已经部署的服务，为了避免未来不必要的磁盘占用问题，此处我使用群晖NAS的iSCSI为VPS扩容。</p>
+<p>如果你不需要挂载iSCSI磁盘，请直接跳过这一步。</p>
+<h3 id="启用群晖iscsi功能并挂载iscsi远程磁盘">启用群晖iSCSI功能并挂载iSCSI远程磁盘</h3>
+<p>iSCSI起源于2003年的IBM公司，通过TCP/IP协议模拟SCSI总线以方便商用服务器的弹性存储部署，要想在群晖NAS上启用这一功能，首先登录NAS并打开存储空间管理员程序：</p>
+<figure data-type="image" tabindex="1"><img src="https://blog.cnklp.cn/post-images/1653710308834.png" alt="" loading="lazy"></figure>
+<p>可以看到我的iSCSI设备已经正常运行并且已经有设备挂载了，为了教学，我们切换到iSCSI Target标签，创建一个iSCSI目标：</p>
+<figure data-type="image" tabindex="2"><img src="https://blog.cnklp.cn/post-images/1653710333683.png" alt="" loading="lazy"></figure>
+<p>名称处（红色边框）可以随意填写。</p>
+<p>接下来创建iSCSI LUN，为新的iSCSI连接点设置设备，对于群晖来说，这里创建了一个虚拟磁盘供其他设备使用：<br>
+<img src="https://blog.cnklp.cn/post-images/1653710356582.png" alt="" loading="lazy"><br>
+LUN名称可以随意填写，容量我设置为50GB，在iSCSI Target下拉菜单处选择刚刚创建的Target。</p>
+<p>我们回到VPS的SSH窗口，首先安装iSCSI客户端程序：</p>
+<pre><code>apt install open-iscsi -y
+</code></pre>
+<p>安装完成之后，编辑文件：</p>
+<pre><code>vim /etc/iscsi/iscsid.conf
+</code></pre>
+<p>在大约第43行附近改为：</p>
+<pre><code>node.startup = automatic
+</code></pre>
+<p>设置好后iSCSI服务会伴随系统启动，然后开始搜寻iSCSI设备：</p>
+<pre><code>iscsiadm --mode discovery --type sendtargets --portal [Your NAS's IP addr]
+</code></pre>
+<p>如果NAS配置无误，会返回下面的结果：</p>
+<pre><code>192.168.123.154:3260,1 iqn.2000-01.com.synology:PigeonDS.netboot
+[fe80::211:32ff:fe88:b001]:3260,1 iqn.2000-01.com.synology:PigeonDS.netboot
+192.168.150.128:3260,1 iqn.2000-01.com.synology:PigeonDS.netboot
+[fe80::a458:4bff:fe64:d95]:3260,1 iqn.2000-01.com.synology:PigeonDS.netboot
+10.8.0.1:3260,1 iqn.2000-01.com.synology:PigeonDS.netboot
+</code></pre>
+<p>使用下面的命令连接到iSCSI服务器：</p>
+<pre><code>iscsiadm --mode node --targetname [;Your IQN] --portal [;Your Nas's IP addr] --login
+</code></pre>
+<p>然后查看磁盘信息：</p>
+<pre><code>root@web:~# fdisk -l
+Disk /dev/sda：50 GiB，53687091200 字节，104857600 个扇区
+Disk model: QEMU HARDDISK
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+磁盘标签类型：dos
+磁盘标识符：0xa39d59c3
+
+设备       启动      起点      末尾      扇区  大小 Id 类型
+/dev/sda1  *         2048 102856703 102854656   49G 83 Linux
+/dev/sda2       102858750 104855551   1996802  975M  5 扩展
+/dev/sda5       102858752 104855551   1996800  975M 82 Linux swap / Solaris
+
+
+Disk /dev/sdb：50 GiB，53687091200 字节，104857600 个扇区
+Disk model: iSCSI Storage
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 512 字节
+I/O 大小(最小/最佳)：512 字节 / 512 字节
+</code></pre>
+<p>可以看到系统已经能认出远程硬盘了，但还需要分区并格式化才能使用：</p>
+<pre><code>fdisk /dev/sdb
+mkfs.ext4 /dev/sdb
+</code></pre>
+<p>完成之后还需要保证iSCSI在重启后能够被系统自动挂载，我是这样做的：</p>
+<pre><code>mkdir /mnt/iscsi #创建挂载点
+tune2fs -l /dev/sdb #查看iSCSI设备的UUID
+vi /etc/fstab #写入fstab
+</code></pre>
+<p>其中fstab文件添加下列内容：</p>
+<pre><code>UUID=[Your disk's UUID] /mnt/iscsi ext4 _netdev 0 0
+</code></pre>
+<p>重启，大功告成！</p>
+<h3 id="创建系统文件">创建系统文件</h3>
+<p>首先进入/mnt/iscsi，这是接下来的工作目录。</p>
+<p>安装必要的软件：</p>
+<pre><code>apt install schroot debootstrap -y
+</code></pre>
+<p>之后创建chroot容器必要的文件：</p>
+<pre><code>debootstrap bionic /mnt/iscsi http://archive.ubuntu.com/ubuntu/
+</code></pre>
+<p>此命令会创建一个基于Ubuntu server 18.06的chroot系统，之后我们的无盘机也会以该文件系统为根目录启动。</p>
+<p>如果下载速度慢，尝试使用代理下载。</p>
+<p>完成之后，输入命令来到chroot容器：</p>
+<pre><code>chroot /mnt/iscsi
+</code></pre>
+<p>在操作前，切换到TUNA软件源：</p>
+<pre><code>#向/etc/apt/sources.list文件内写入
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu bionic main restricted
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu bionic universe
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu bionic multiverse
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu bionic-update main restricted
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu bionic-update universe
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu bionic-update multiverse
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu bionic-security main restricted
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu bionic-security universe
+deb http://mirrors.tuna.tsinghua.edu.cn/ubuntu bionic-security multiverse
+
+</code></pre>
+<p>执行下面的指令简易初始化接下来要用的系统：</p>
+<pre><code>apt update
+apt install openssh-server -y #安装SSH服务器，记得允许root身份登录
+passwd root #设置新的root密码
+hostnamectl set-hostname [Your new hostname] #设置一个新的主机名，不然无盘机启动后主机名与VPS冲突
+</code></pre>
+<p>创建启动需要的内核，在之前请确认软件源设置无误。</p>
+<pre><code>apt install linux-image-generic
+
+</code></pre>
+<figure data-type="image" tabindex="3"><img src="https://imgconvert.csdnimg.cn/aHR0cHM6Ly9ibG9nLm1ld3dvb2YuY24vd3AtY29udGVudC91cGxvYWRzLzIwMTkvMDcvaW1hZ2UtNC5wbmc?x-oss-process=image/format,png" alt="" loading="lazy"></figure>
+<p>安装时可能遇到这样的界面，此处选YES，我们不使用GRUB引导操作系统。</p>
+<p>安装完成后，执行：</p>
+<pre><code>update-initramfs
+</code></pre>
+<p>输入exit退出chroot容器，将生成的initrd.img文件放好备用</p>
+<p>至此，文件系统创建完成。</p>
+<h3 id="准备nfs服务器">准备NFS服务器</h3>
+<p>安装NFS服务器：</p>
+<pre><code>apt install nfs-kernel-server -y
+</code></pre>
+<p>之后修改配置文件：</p>
+<pre><code>vi /etc/exports
+</code></pre>
+<p>在文件内添加一行：</p>
+<pre><code>/mnt/iscsi *(rw,sync,no_root_squash)
+#格式为 /path/to/your/root [ipaddr](rw,sync)，可自行修改
+</code></pre>
+<p>重启NFS服务器并设置开机自启：</p>
+<pre><code>systemctl restart nfs-kernel-server.service
+systemctl enable nfs-kernel-server.service
+</code></pre>
+<h3 id="准备dhcp服务器">准备DHCP服务器</h3>
+<figure data-type="image" tabindex="4"><img src="https://blog.cnklp.cn/post-images/1653710762667.png" alt="" loading="lazy"></figure>
+<p>我使用的是基于嵌入式Linux的Pandavan系统路由器，dnsmasq已经集成了TFTP功能，在配置文件处启用即可。</p>
+<p>将刚刚生成的内核文件复制到TFTP服务器的虚拟根目录。</p>
+<p>将PXE固件上传至路由器，并修改pxelinux.cfg/default文件</p>
+<pre><code>DISPLAY boot.txt2 #此处为帮助信息，可写可不写，txt文件放置于TFTP根目录处
+...
+
+DEFAULT linux #默认启动菜单
+
+LABEL linux #启动菜单
+    kernel vmlinuz
+    append vga=normal initrd=initrd.img ramdisk_size=14332 root=/dev/nfs nfsroot=[;Your NFS server's ip addr]:/mnt/iscsi rw -- #此处为引导信息，尤其是nfsroot后的参数请修改为自己的NFS服务器
+
+PROMPT 0
+TIIMEOUT 0 #超时零秒，会自动启动默认启动
+
+</code></pre>
+<p>保存设置，使用虚拟机测试，无问题后启动实体机，大功告成</p>
+<h2 id="结语">结语</h2>
+<p>这样一个简单的网络启动折腾了自己很久，网络上很多教程都需要自行编译Linux内核，这篇教程是自己按着ipxe的一些文档以及askubuntu社区的部分问答而成的</p>
+<p>因为网络启动Linux这一需求较为特殊，国内更多是部署只读无盘然后用来Centos自动化安装的，因此写了这样一篇教程，希望能帮到各位。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[运维日记：frp在实际运维中的妙用]]></title>
+        <id>https://blog.cnklp.cn/post/2021-04-10-diary-how-i-use-frp/</id>
+        <link href="https://blog.cnklp.cn/post/2021-04-10-diary-how-i-use-frp/">
+        </link>
+        <updated>2021-04-09T15:38:00.000Z</updated>
+        <content type="html"><![CDATA[<p>frp是一个网络端口映射工具，使用go语言编写并在github开源，支持诸如隐式隧道等诸多映射模式，功能强大且稳定，并且有着强大的社区支持，以下记录我个人在实际部署项目或维护时常用到的用法：</p>
+<p>1.简单的tcp穿透：映射Minecraft游戏服务器端口<br>
+在此前担任某社区Minecraft游戏服务器维护员时，服务器遭受了来自不明组织的DDoS攻击，为了缓和攻击，做出了封锁防火墙的决定，但封锁的同时Minecraft游戏服务也无法正常运行了，在同局域网下有另一台能正常联网的主机，遂决定通过该主机将游戏端口映射到不同的其他主机，分散目标以达到排查与缓解DDoS的目的<br>
+我们通过运行多个frpc客户端，建立了五个不同IP却连接到相同端口的服务，在进行测试时发现了一个问题：客户端IP始终显示为局域网内网IP，由于frpc在正常模式下只是单纯地转发神数据包，无法转发来源IP，在查阅frp文档后发现了解决方案：</p>
+<ul>
+<li>frpc支持在tcp包头部添加来源IP信息（proxy protocol支持）</li>
+<li>由于修改了tcp数据包，因此需要服务应用程序支持proxy protocol以正确记录添加了来源数据的tcp包</li>
+<li>Minecraft 服务器原生不支持proxy protocol，但其开源版bukkit及其衍生版支持proxy protocol</li>
+</ul>
+<p>我们的服务器采用paper开服端，该服务端是bukkit的衍生版，支持bukkit的大部分设置，在服务端根目录的bukkit.yml配置文件中可以看见bungeeCord支持，将false改为true即可</p>
+<ul>
+<li>bungeecord是Minecraft服务器的负载均衡软件，通过反向代理在多玩家情况下将玩家分发至其他服务器以减轻主服务器负担，使Minecraft服务器可以被群组化，bungeecord服务器也被称为“群组服”</li>
+<li>该服务端支持proxy protocol v2</li>
+</ul>
+<p>修改完bukkit.yml之后，修改frpc.ini，具体方法请查阅frp文档<br>
+重启frpc，登录，成功显示真实IP。<br>
+2.隐式tcp隧道：诸如web应用等需要隐藏对外端口的服务<br>
+对于一些web应用，需要进行反向代理以获取正常IP地址的，则需要使用stcp并设定反向代理服务器的http x forward to 标签。<br>
+对于大部分内网穿透的web服务器来说，直接穿透是不现实的，需要一个前置反向代理。</p>
+<p><strong>未完待续…</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[校摄影社黑白照片参赛作品]]></title>
+        <id>https://blog.cnklp.cn/post/2021-04-08-nkez-pc-commit/</id>
+        <link href="https://blog.cnklp.cn/post/2021-04-08-nkez-pc-commit/">
+        </link>
+        <updated>2021-04-08T07:23:48.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>凑凑热闹嘛，毕竟一年一次的文化艺术节</p>
+<p>都是老照片，简单调节了一下滤镜</p>
+</blockquote>
+<figure data-type="image" tabindex="1"><img src="https://assets.cnklp.cn/upload/Creeper_Res/photo/nkez_pc_0.jpg" alt="" loading="lazy"></figure>
+<p>参赛作品1：窗·影</p>
+<p>摄于百家姓公园，使用设备：CANON EOS 450D</p>
+<p>Tv模式，光圈为1/16</p>
+<p>后期软件：Windows照片应用</p>
+<figure data-type="image" tabindex="2"><img src="https://assets.cnklp.cn/upload/Creeper_Res/photo/nkez_pc_1.jpg" alt="" loading="lazy"></figure>
+<p>参赛作品2：暮·影</p>
+<p>摄于校区南门出口下坡后某大桥，使用设备：Xiaomi Redmi Note 7 Pro</p>
+<p>P模式，未启用48MP</p>
+<p>后期软件：Adobe Photoshop 2019 CC</p>
+<figure data-type="image" tabindex="3"><img src="https://assets.cnklp.cn/upload/Creeper_Res/photo/nkez_pc_2.jpg" alt="" loading="lazy"></figure>
+<p>参赛作品3：时·影</p>
+<p>摄于百家姓公园北门。使用设备：OLYMPUS CAMERA</p>
+<p>P模式，后期软件：Adobe Photoshop 2019 CC</p>
+<figure data-type="image" tabindex="4"><img src="https://assets.cnklp.cn/upload/Creeper_Res/photo/nkez_pc_3.jpg" alt="" loading="lazy"></figure>
+<p>参赛作品4：楼·影</p>
+<p>摄于百家生佛寺，使用设备：Xiaomi Redmi Note 7 Pro</p>
+<p>Google Camera HDR+，后期软件：Windows照片应用</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[未来のキミと、すべての歌に 游戏使用到的其他BGM]]></title>
+        <id>https://blog.cnklp.cn/post/2021-01-28-miku-game-audio/</id>
+        <link href="https://blog.cnklp.cn/post/2021-01-28-miku-game-audio/">
+        </link>
+        <updated>2021-01-27T21:34:37.000Z</updated>
+        <content type="html"><![CDATA[<p><img src="https://assets.cnklp.cn/upload/Creeper_Res/img/mikukiss_08.jpg" alt="Miku" loading="lazy"><br>
+BGM13，对应音频文件：<audio controls src="https://assets.cnklp.cn/upload/Creeper_Res/media/bgm01.mp3"></audio></p>
+<p>原站地址：<a href="http://www.human-park.net/">音楽フリー素材HumanPark</a></p>
+<p>游戏发布地址：<a href="http://doubleegg.blog89.fc2.com/blog-entry-14.html">FC2</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[个人库存的GalGame及其分享]]></title>
+        <id>https://blog.cnklp.cn/post/2021-01-26-galgame-share/</id>
+        <link href="https://blog.cnklp.cn/post/2021-01-26-galgame-share/">
+        </link>
+        <updated>2021-01-25T19:31:07.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>所有的文件均存放在OneDrive，速度较慢的可以挂梯子下载。</strong></p>
+<p>1.<strong>沙耶之歌</strong></p>
+<p>下载链接：<a href="https://file.klpnb.cn/Index/GalGame/ONS/TheSongOfSaya%28%E6%B2%99%E8%80%B6%E3%81%AE%E5%94%84%29_ONS.zip">ONS</a></p>
+<p>不多描述，老虚的早期作品，刀子肯定是打包发的，肯定是会死人的（划掉）</p>
+<p>2.<strong>将所有的歌献给未来的你</strong></p>
+<p>下载链接：<a href="https://file.klpnb.cn/Index/GalGame/ONS/MiraiNoKimitoSubeteNouTani%28%E6%9C%AA%E6%9D%A5%E3%81%AE%E3%82%AD%E3%83%9F%E3%81%A8%E3%80%81%E3%81%99%E3%81%B9%E3%81%A6%E3%81%AE%E6%AD%8C%E3%81%AB%29_ONS.zip">ONS</a></p>
+<p>属Miku的同人游戏，带汉化。可能很多人没玩过这一Gal，算是短篇中的精品了</p>
+<p>3.<strong>缘之空</strong></p>
+<p>下载链接：<a href="https://file.klpnb.cn/Index/GalGame/ONS/YosugaNoSora%28%E3%83%A8%E3%82%B9%E3%82%AC%E3%83%8E%E3%82%BD%E3%83%A9%29_ONS.zip">ONS</a></p>
+<p>老Gal了，大家懂得都懂。悠之空在这里：<a href="https://file.klpnb.cn/Index/GalGame/ONS/YosugaNoSoraFunpack%28%E3%83%8F%E3%83%AB%E3%82%AB%E3%83%8A%E3%82%BD%E3%83%A9%29_ONS.zip">ONS</a></p>
+<p>4.寒蝉鸣泣之时</p>
+<p>下载链接：<a href="https://file.klpnb.cn/Index/GalGame/ONS/HigurashiWhenTheyCry%28%E3%81%B2%E3%81%90%E3%82%89%E3%81%97%E3%81%AE%E3%81%AA%E3%81%8F%E9%A1%B7%E3%81%AB%29_ONS.zip">ONS</a></p>
+<p>个人最喜欢的Gal之一，恐怖向，也是同人游戏，作者龙骑士07貌似还和麻枝准合作过（参见罚抄）</p>
+]]></content>
+    </entry>
+</feed>
